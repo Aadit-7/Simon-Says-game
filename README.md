@@ -1,0 +1,1 @@
+Simon Says is a popular memory game that requires players to recall and repeat a sequence of colors or sounds. This project is a web-based interpretation of Simon Says that uses HTML, CSS, and JavaScript.
